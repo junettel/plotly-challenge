@@ -1,5 +1,5 @@
 // Test data import
-const jsonData = d3.json("../../data/samples.json");
+const jsonData = d3.json("samples.json");
 jsonData.then(data => {
   console.log("Full Dataset:", data)
 });
