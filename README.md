@@ -1,5 +1,5 @@
 # plotly-challenge
-Plot.ly Homework - Belly Button Biodiversity
+Belly Button Biodiversity
 
 # Deployment Link
 **[https://junettel.github.io/plotly-challenge/](https://junettel.github.io/plotly-challenge/)**
